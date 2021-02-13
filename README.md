@@ -3,7 +3,7 @@
 
 - I live in brazil. :smile:
 
-- I'm studying Systems Analysis and Development at Faculdade de Tecnologia de Itapetininga.
+- I'm studying Systems Analysis and Development at Faculdade de Tecnologia de Itapetininga. :books:
 
 - I have been working with IT Support at a school. :desktop_computer:
 
