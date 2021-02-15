@@ -16,15 +16,15 @@
 <!-- Social Media -->
 <!--LinkedIn-->
 <a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/" target= "_blank">
-<img align="center" alt="felipe-linkedin" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613349093~hmac=a8500254fc53f1715685708eabff9036">
+<img align="center" alt="felipe-linkedin" height="30" width="30" src= "https://www.flaticon.com/premium-icon/icons/svg/2626/2626307.svg">
 
 <!--Facebook-->
 <a href="https://www.facebook.com/fferreirafe" target= "_blank">
-<img align="center" alt="felipe-facebook" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/1384/1384053.svg?token=exp=1613349196~hmac=70a72bc4368af3733c8657a381206dc5">
+<img align="center" alt="felipe-facebook" height="30" width="30" src= "https://www.flaticon.com/premium-icon/icons/svg/2626/2626269.svg">
 
 <!--Steam-->
 <a href="https://steamcommunity.com/profiles/76561198353916509/" target= "_blank">
-<img align="center" alt="felipe-steam" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/220/220223.svg?token=exp=1613349263~hmac=5676fa7b4808b5eaa734aee701c34016">
+<img align="center" alt="felipe-steam" height="30" width="30" src= "https://www.flaticon.com/premium-icon/icons/svg/2626/2626273.svg">
 
 
 
@@ -41,20 +41,19 @@
 <img align="center" alt="css" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1613349698~hmac=8e9efb6c553d987619aaa65f5e2adeb6">
 
 <!--GitHub-->
-<img align="center" alt="github" height="30" width="40" src= "https://www.flaticon.com/premium-icon/icons/svg/3291/3291667.svg">
+<img align="center" alt="github" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1613350373~hmac=67e6d6372d4364dd4b951b87ebf5dcda">
 
 <!--Python-->
-<img align="center" alt="python" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/1822/1822920.svg?token=exp=1613249626~hmac=9d8d4d2a68d31480179cf87e045cf6ad">
+<img align="center" alt="python" height="30" width="30" src= "https://www.flaticon.com/premium-icon/icons/svg/3098/3098090.svg">
 
 <!--AutoCad-->
-<img align="center" alt="autocad" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/839/839194.svg?token=exp=1613250020~hmac=09b1c1531de6f63654b97e3c31ef857c">
+<img align="center" alt="autocad" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/839/839143.svg?token=exp=1613351000~hmac=03d0fadbcf0b46dc3ab7902fb3135550">
 
 <!--Word-->
-<img align="center" alt="word" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/60/60747.svg?token=exp=1613250378~hmac=67d0aec14e5698908389e84bad4a29e7">
-
+<img align="center" alt="word" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/888/888883.svg?token=exp=1613351290~hmac=e57eab65e5322e0d0e24fe7bcd816f0c">
 
 <!--Excel-->
-<img align="center" alt="excel" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/60/60752.svg?token=exp=1613250505~hmac=ba799f744f69b19c5fc911833c40e9d8">
+<img align="center" alt="excel" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/888/888850.svg?token=exp=1613351297~hmac=e7661aef128b57749eef9327b563c827">
 
 
 
