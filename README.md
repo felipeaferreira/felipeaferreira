@@ -16,7 +16,7 @@
 <!-- Social Media -->
 <!--LinkedIn-->
 <a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/" target= "_blank">
-<img align="center" alt="felipe-linkedin" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/61/61109.svg?token=exp=1613248664~hmac=82c409864fa407469ef9f16569a4bd82">
+<img align="center" alt="felipe-linkedin" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613349093~hmac=a8500254fc53f1715685708eabff9036">
 
 <!--Facebook-->
 <a href="https://www.facebook.com/fferreirafe" target= "_blank">
