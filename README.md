@@ -20,11 +20,11 @@
 
 <!--Facebook-->
 <a href="https://www.facebook.com/fferreirafe" target= "_blank">
-<img align="center" alt="felipe-facebook" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/1051/1051309.svg?token=exp=1613248689~hmac=ca9c0c486a7f8c285924f05c81da647b">
+<img align="center" alt="felipe-facebook" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/1384/1384053.svg?token=exp=1613349196~hmac=70a72bc4368af3733c8657a381206dc5">
 
 <!--Steam-->
 <a href="https://steamcommunity.com/profiles/76561198353916509/" target= "_blank">
-<img align="center" alt="felipe-steam" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/3/3782.svg?token=exp=1613248843~hmac=54b0f7f9aa7c801541fdc6fb07ac1eb4">
+<img align="center" alt="felipe-steam" height="30" width="60" src= "https://www.flaticon.com/svg/vstatic/svg/220/220223.svg?token=exp=1613349263~hmac=5676fa7b4808b5eaa734aee701c34016">
 
 
 
@@ -35,13 +35,13 @@
 
 <!-- Skills -->
 <!--HTML-->
-<img align="center" alt="html" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/152/152843.svg?token=exp=1613249021~hmac=65ecbc7ced8a0f31fb382962decc17f5">
+<img align="center" alt="html" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/732/732212.svg?token=exp=1613349668~hmac=d8610436e4d27667637a26cae13bfd4e">
 
 <!--CSS-->
-<img align="center" alt="css" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/82/82127.svg?token=exp=1613249225~hmac=41f60a8e20b45c3b296c6f98c96b7fe3">
+<img align="center" alt="css" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1613349698~hmac=8e9efb6c553d987619aaa65f5e2adeb6">
 
 <!--GitHub-->
-<img align="center" alt="github" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/25/25657.svg?token=exp=1613249348~hmac=b1415ae54a2ca858b9261a0f21fab978">
+<img align="center" alt="github" height="30" width="40" src= "https://www.flaticon.com/premium-icon/icons/svg/3291/3291667.svg">
 
 <!--Python-->
 <img align="center" alt="python" height="30" width="40" src= "https://www.flaticon.com/svg/vstatic/svg/1822/1822920.svg?token=exp=1613249626~hmac=9d8d4d2a68d31480179cf87e045cf6ad">
