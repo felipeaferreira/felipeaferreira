@@ -15,7 +15,7 @@
 
 <!-- Social Media -->
 <!--LinkedIn-->
-<a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/" target= "_blank">
+<a href="https://steamcommunity.com/profiles/76561198353916509/" target= "_blank">
 <img align="center" alt="felipe-linkedin" height="30" width="30" src= "https://www.flaticon.com/premium-icon/icons/svg/2626/2626307.svg">
 
 <!--Facebook-->
@@ -23,7 +23,7 @@
 <img align="center" alt="felipe-facebook" height="30" width="30" src= "https://www.flaticon.com/premium-icon/icons/svg/2626/2626269.svg">
 
 <!--Steam-->
-<a href="https://steamcommunity.com/profiles/76561198353916509/" target= "_blank">
+<a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/" target= "_blank">
 <img align="center" alt="felipe-steam" height="30" width="30" src= "https://www.flaticon.com/premium-icon/icons/svg/2626/2626273.svg">
 
 
