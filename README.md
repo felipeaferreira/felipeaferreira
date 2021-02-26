@@ -15,7 +15,9 @@
 
 <!-- Social Media -->
 
-<a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/"><img src="https://i.ibb.co/dj7NK9r/linkedin-1.png" alt="linkedin-1" height="40" width="40"></a><a href="https://www.facebook.com/fferreirafe/"><img src="https://i.ibb.co/PrbBq8Z/facebook.png" alt="facebook" height="40" width="40"></a> <a href="https://steamcommunity.com/profiles/76561198353916509/"><img src="https://i.ibb.co/Zx9nwDy/steam.jpg" alt="steam" height="40" width="40"></a>
+<a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/"><img src="https://i.ibb.co/dj7NK9r/linkedin-1.png" alt="linkedin-1" height="40" width="40"></a>
+<a href="https://www.facebook.com/fferreirafe/"><img src="https://i.ibb.co/PrbBq8Z/facebook.png" alt="facebook" height="40" width="40"></a> 
+<a href="https://steamcommunity.com/profiles/76561198353916509/"><img src="https://i.ibb.co/Zx9nwDy/steam.jpg" alt="steam" height="40" width="40"></a>
 
 
 
