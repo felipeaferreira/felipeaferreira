@@ -32,25 +32,25 @@
 
 <!-- Skills -->
 <!--HTML-->
-<a><img src="https://i.ibb.co/Fqs2QZ9/html5-1.png" alt="html5-1" height="40" width="40"></a>
+<img src="https://i.ibb.co/Fqs2QZ9/html5-1.png" alt="html5-1" height="40" width="40">
 
 <!--CSS-->
-<a><img src="https://i.ibb.co/QQgMJ7J/css-3.png" alt="css-3" height="40" width="40"></a>
+<img src="https://i.ibb.co/QQgMJ7J/css-3.png" alt="css-3" height="40" width="40">
 
 <!--GitHub-->
-<a><img src="https://i.ibb.co/ZzwNL2W/github.jpg" alt="github"  height="40" width="40"></a>
+<img src="https://i.ibb.co/ZzwNL2W/github.jpg" alt="github"  height="40" width="40">
 
 <!--Python-->
-<a><img src="https://i.ibb.co/PFdwTVh/python.png" alt="python" height="40" width="40"></a>
+<img src="https://i.ibb.co/PFdwTVh/python.png" alt="python" height="40" width="40">
 
 <!--AutoCad-->
-<a><img src="https://i.ibb.co/fYQ13vL/cad.png" alt="cad" height="40" width="40"></a>
+<img src="https://i.ibb.co/fYQ13vL/cad.png" alt="cad" height="40" width="40">
 
 <!--C#-->
-<a><img src="https://i.ibb.co/JKx05ky/hashtag.png" alt="hashtag" height="40" width="40"></a>
+<img src="https://i.ibb.co/JKx05ky/hashtag.png" alt="hashtag" height="40" width="40">
 
 <!--Linux-->
-<a><img src="https://i.ibb.co/sF5Bv62/linux.png" alt="linux" height="40" width="40"></a>
+<img src="https://i.ibb.co/sF5Bv62/linux.png" alt="linux" height="40" width="40">
 
 
 
