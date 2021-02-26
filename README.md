@@ -15,16 +15,13 @@
 
 <!-- Social Media -->
 <!--LinkedIn-->
-<a href="https://steamcommunity.com/profiles/76561198353916509/" target= "_blank">
-<img align="center" alt="felipe-linkedin" height="40" width="40" src= "https://ibb.co/RY7XHn9">
+<a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/"><img src="https://i.ibb.co/dj7NK9r/linkedin-1.png" alt="linkedin-1" height="40" width="40"></a>
 
 <!--Facebook-->
-<a href="https://www.facebook.com/fferreirafe" target= "_blank">
-<img align="center" alt="felipe-facebook" height="40" width="40" src= "https://ibb.co/4FDBhxZ">
+<a href="https://www.facebook.com/fferreirafe/"><img src="https://i.ibb.co/PrbBq8Z/facebook.png" alt="facebook" height="40" width="40"></a>
 
 <!--Steam-->
-<a href="https://www.linkedin.com/in/felipe-ferreira-64666a206/" target= "_blank">
-<img align="center" alt="felipe-steam" height="40" width="40" src= "https://ibb.co/7KhwTm7">
+<a href="https://steamcommunity.com/profiles/76561198353916509/"><img src="https://i.ibb.co/Zx9nwDy/steam.jpg" alt="steam" height="40" width="40"></a>
 
 
 
@@ -35,25 +32,25 @@
 
 <!-- Skills -->
 <!--HTML-->
-<img align="center" alt="html" height="30" width="40" src= "https://ibb.co/S7QbkY2">
+<a><img src="https://i.ibb.co/Fqs2QZ9/html5-1.png" alt="html5-1" height="40" width="40"></a>
 
 <!--CSS-->
-<img align="center" alt="css" height="30" width="40" src= "https://ibb.co/H4SqKLK">
+<a><img src="https://i.ibb.co/QQgMJ7J/css-3.png" alt="css-3" height="40" width="40"></a>
 
 <!--GitHub-->
-<img align="center" alt="github" height="30" width="40" src= "https://ibb.co/jkxH6Jg">
+<a><img src="https://i.ibb.co/ZzwNL2W/github.jpg" alt="github"  height="40" width="40"></a>
 
 <!--Python-->
-<img align="center" alt="python" height="30" width="30" src= "https://ibb.co/MZmM8JV">
+<a><img src="https://i.ibb.co/PFdwTVh/python.png" alt="python" height="40" width="40"></a>
 
 <!--AutoCad-->
-<img align="center" alt="autocad" height="30" width="40" src= "https://ibb.co/GvFxZTN">
+<a><img src="https://i.ibb.co/fYQ13vL/cad.png" alt="cad" height="40" width="40"></a>
 
 <!--C#-->
-<img align="center" alt="word" height="30" width="40" src= "https://ibb.co/VtHr2BQ">
+<a><img src="https://i.ibb.co/JKx05ky/hashtag.png" alt="hashtag" height="40" width="40"></a>
 
 <!--Linux-->
-<img align="center" alt="excel" height="30" width="40" src= "https://ibb.co/qR0ZMWd">
+<a><img src="https://i.ibb.co/sF5Bv62/linux.png" alt="linux" height="40" width="40"></a>
 
 
 
