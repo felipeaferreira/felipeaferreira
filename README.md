@@ -5,8 +5,6 @@
 
 - I'm studying Systems Analysis and Development at Faculdade de Tecnologia de Itapetininga. :books:
 
-- I have been working with IT Support at a school. :desktop_computer:
-
 - I'm interested in web development and mobile Apps. :computer: :iphone:
 
 
