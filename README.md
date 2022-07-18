@@ -26,7 +26,7 @@
 
 <!-- Skills -->
 <!--HTML-->
-<img src="https://i.ibb.co/Fqs2QZ9/html5-1.png" alt="html5-1" height="40" width="40"> <img src="https://i.ibb.co/QQgMJ7J/css-3.png" alt="css-3" height="40" width="40"> <img src="https://i.ibb.co/ZzwNL2W/github.jpg" alt="github"  height="40" width="40"> <img src="https://i.ibb.co/PFdwTVh/python.png" alt="python" height="40" width="40"> <img src="https://i.ibb.co/fYQ13vL/cad.png" alt="cad" height="40" width="40"> <img src="https://i.ibb.co/JKx05ky/hashtag.png" alt="hashtag" height="40" width="45"> <img src="https://i.ibb.co/sF5Bv62/linux.png" alt="linux" height="40" width="45">
+<img src="https://i.ibb.co/Fqs2QZ9/html5-1.png" alt="html5-1" height="40" width="40"> <img src="https://i.ibb.co/QQgMJ7J/css-3.png" alt="css-3" height="40" width="40"> <img src="https://i.ibb.co/ZzwNL2W/github.jpg" alt="github"  height="40" width="40"> <img src="https://i.ibb.co/PFdwTVh/python.png" alt="python" height="40" width="40"> <img src="https://i.ibb.co/fYQ13vL/cad.png" alt="cad" height="40" width="40"> <img src="https://i.ibb.co/JKx05ky/hashtag.png" alt="hashtag" height="40" width="45"> <img src="https://i.ibb.co/sF5Bv62/linux.png" alt="linux" height="40" width="45"> <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="flutter" height="40" width="45">
 
 
 
